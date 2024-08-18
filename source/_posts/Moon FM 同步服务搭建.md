@@ -6,7 +6,7 @@ permalink: ''
 title: Moon FM 同步服务搭建
 cover: /images/24c3bef21dbe219801f421672961ae73.jpg
 date: '2024-08-19 03:59:00'
-updated: '2024-08-19 05:04:00'
+updated: '2024-08-19 05:07:00'
 ---
 
 ## 安装 CouchDB
